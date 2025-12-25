@@ -4,7 +4,7 @@ compatibility_date = "2024-01-01"
 
 [[kv_namespaces]]
 binding = "NEWS_CACHE"
-id = "someid"
+id = "32b8414afc334798b935b3c431ae28df"
 
 # Cron trigger - refresh news every 30 minutes
 [triggers]
